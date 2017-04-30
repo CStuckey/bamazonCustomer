@@ -1,0 +1,29 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "Bamazon app will take in orders from customers and deplete stock from the store's inventory",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console-log-hello-world": "^1.0.3",
+    "get-date": "^1.0.2",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "spotify": "^0.3.0",
+    "weather-js": "^2.0.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CStuckey/bamazonCustomer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CStuckey/bamazonCustomer/issues"
+  },
+  "homepage": "https://github.com/CStuckey/bamazonCustomer#readme"
+}
